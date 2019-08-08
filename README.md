@@ -1,2 +1,27 @@
 # basic-assembly-2018
-Some basic Assembly programs. 
+**Nội dung:** Một số chương trình xử lý tính toán cơ bản được lập trình trong Hợp ngữ.
+- **binarystring.asm** và **binstr.asn:** In một xâu nhị phân 16 bit được lưu ở bộ nhớ trong.
+- **copyStr.asm:** Sao chép xâu ký tự giữa các biến.
+- **d2b.asm:** Chuyển một số từ hệ thập phân sang hệ nhị phân.
+- **d2h.asm:** Chuyển một số từ hệ thập phân sang hệ hexa.
+- **date.asm:** In giá trị ngày, tháng, năm từ một biến (được định dạng).
+- **delfirst.asm:** Xóa ký tự đầu tiên của một xâu.
+- **encode.asm:** Mã hóa một xâu ký tự. 
+- **fac.asm:** Tính giai thừa của một số nguyên dương. 
+- **find0.asm:** Tìm vị trí phần tử 0 đầu tiên trong một mảng các số nguyên.
+- **fisrtCh.asm:** Tìm ký tự đứng đầu tiên theo thứ tự alphabet trong một xâu. 
+- **get.asm:** Tính tổng các số trong một mảng và in kết quả ra màn hình.
+- **get16.asm:** Lưu vào thanh ghi ax một số có dạng hexa được nhập từ bàn phím. 
+- **hello.asm:** In một xâu ký tự. 
+- **nequ0.asm:** Tìm vị trí phần tử khác 0 đầu tiên trong một mảng các số nguyên.
+- **prime.asm:** Xác nhận tính nguyên tố của một số nguyên được nhập từ bàn phím. 
+- **revstr.asm:** Đảo một xâu ký tự được nhập từ bàn phím và in kết quả ra màn hình. 
+- **sort.asm:** Sắp xếp một dãy các số nguyên được nhập từ bàn phím theo thứ tự tăng dần và in kết quả ra màn hình.
+- **sum.asm:** Tính tổng các số trong một mảng và in kết quả ra màn hình.
+- **sum_1.asm:** Tính tổng các số trong một mảng được nhập từ bàn phím và in kết quả ra màn hình. 
+- **swap.asm:** Đảo giá trị hai biến.
+- **swap2.asm:** Đảo giá trị ba biến được nhập từ bàn phím.
+- **template.asm:** Template một chương trình Hợp ngữ đơn giản. 
+- **toUpper.asm:** Chuyển tất cả ký tự trong một xâu sang dạng in hoa. 
+- **writeint.asm:** In một số nguyên dạng thập phân.
+- **x16.asm:** Nhân tất cả các phần tử trong một mảng với 16.
